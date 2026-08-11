@@ -5,7 +5,7 @@ const platforms = [
   {
     name: 'Codeforces',
     handle: 'jayanttomr',
-    rating: '1243',
+    rating: '1304',
     rank: 'Pupil',
     href: 'https://codeforces.com/profile/jayanttomr',
     icon: TrendingUp,
@@ -27,7 +27,7 @@ const platforms = [
   {
     name: 'CodeChef',
     handle: 'jayant_tomar20',
-    rating: '1477',
+    rating: '1513',
     rank: '2-star',
     href: 'https://www.codechef.com/users/jayant_tomar20',
     icon: Trophy,
@@ -46,12 +46,12 @@ const achievements = [
   },
   {
     title: 'CodeChef 2-star',
-    detail: 'Earned a 2-star CodeChef profile with a rating of 1477 through consistent contest participation.',
+    detail: 'Earned a 2-star CodeChef profile with a rating of 1513 through consistent contest participation.',
     icon: Award,
   },
   {
     title: 'Codeforces Pupil',
-    detail: 'Reached Pupil rank with a Codeforces rating of 1243 while actively competing across problem-solving contests.',
+    detail: 'Reached Pupil rank with a Codeforces rating of 1304 while actively competing across problem-solving contests.',
     icon: Trophy,
   },
   {
@@ -63,6 +63,11 @@ const achievements = [
     title: 'JEE Main 98.11 Percentile',
     detail: 'Scored 98.11 percentile in JEE Main 2024 and qualified for JEE Advanced 2024.',
     icon: Star,
+  },
+  {
+    title: ' Global Rank 1027',
+    detail: 'Secured Global Rank 1027 in Codeforces Round 1113 (Div. 2) among 25,000+ participants',
+    icon: Flag,
   },
 ];
 
