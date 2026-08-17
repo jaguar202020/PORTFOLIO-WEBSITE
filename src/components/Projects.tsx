@@ -13,8 +13,8 @@ const projects = [
       'Shipped a responsive React interface using Tailwind CSS and ShadCN UI.',
     ],
     tags: ['React.js', 'Node.js', 'Express.js', 'Neon PostgreSQL', 'LangChain', 'Gemini AI', 'Clerk', 'Stripe'],
-    github: 'https://github.com/jaguar202020',
-    live: '#contact',
+    github: 'https://github.com/jaguar202020/SOMMAIRE-AI',
+    live: 'https://sommaire-ai-ochre.vercel.app',
     icon: Brain,
     accent: 'from-[#E50914] to-[#ff5252]',
   },
@@ -29,8 +29,8 @@ const projects = [
       'Created clear progress dashboards for assignments, activity, and deadlines.',
     ],
     tags: ['React.js', 'Node.js', 'Express.js', 'Prisma ORM', 'PostgreSQL', 'Clerk', 'JWT', 'Inngest'],
-    github: 'https://github.com/jaguar202020',
-    live: '#contact',
+    github: 'https://github.com/jaguar202020/proejct_management_coworkspace',
+    live: 'https://project-mgmnt-pi.vercel.app',
     icon: Briefcase,
     accent: 'from-[#ff6b6b] to-[#E50914]',
   },
@@ -110,7 +110,7 @@ export default function Projects() {
                         href={project.live}
                         className="inline-flex items-center gap-2 border border-white/20 hover:border-white/50 text-white text-sm font-semibold px-5 py-2.5 rounded transition-all duration-200 hover:bg-white/5"
                       >
-                        <ExternalLink size={16} /> Ask for Demo
+                        <ExternalLink size={16} /> Live
                       </a>
                     </div>
                   </div>
