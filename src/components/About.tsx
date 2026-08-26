@@ -3,8 +3,8 @@ import { MapPin, GraduationCap, Code, Trophy, Award } from 'lucide-react';
 
 const stats = [
   { value: '700+', label: 'DSA Problems Solved', icon: Code },
-  { value: '2-star', label: 'CodeChef Rating 1513', icon: Award },
-  { value: 'Pupil', label: 'Codeforces Rating 1304', icon: Trophy },
+  { value: '3-star', label: 'CodeChef Rating 1622', icon: Award },
+  { value: 'Pupil', label: 'Codeforces Rating 1322', icon: Trophy },
   { value: '98.11%', label: 'JEE Main Percentile', icon: GraduationCap },
 ];
 

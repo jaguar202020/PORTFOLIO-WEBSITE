@@ -104,7 +104,7 @@ export default function Hero() {
           className="text-[#808080] text-base md:text-lg max-w-3xl mx-auto mb-10 leading-relaxed animate-fade-in opacity-0"
           style={{ animationDelay: '0.7s', animationFillMode: 'forwards' }}
         >
-          B.Tech Computer Science and Data Science at IIIT Bhopal - CGPA 7.82 - 700+ DSA problems solved - CodeChef 2-star - JEE Main 98.11 percentile
+          B.Tech Computer Science and Data Science at IIIT Bhopal - CGPA 7.82 - 700+ DSA problems solved - CodeChef 3-star - JEE Main 98.11 percentile
         </p>
 
         <div

@@ -5,7 +5,7 @@ const platforms = [
   {
     name: 'Codeforces',
     handle: 'jayanttomr',
-    rating: '1304',
+    rating: '1322',
     rank: 'Pupil',
     href: 'https://codeforces.com/profile/jayanttomr',
     icon: TrendingUp,
@@ -27,8 +27,8 @@ const platforms = [
   {
     name: 'CodeChef',
     handle: 'jayant_tomar20',
-    rating: '1513',
-    rank: '2-star',
+    rating: '1622',
+    rank: '3-star',
     href: 'https://www.codechef.com/users/jayant_tomar20',
     icon: Trophy,
     color: 'text-green-400',
@@ -45,8 +45,8 @@ const achievements = [
     icon: Medal,
   },
   {
-    title: 'CodeChef 2-star',
-    detail: 'Earned a 2-star CodeChef profile with a rating of 1513 through consistent contest participation.',
+    title: 'CodeChef 3-star',
+    detail: 'Earned a 3-star CodeChef profile with a rating of 1513 through consistent contest participation.',
     icon: Award,
   },
   {
