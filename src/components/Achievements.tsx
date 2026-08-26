@@ -55,8 +55,8 @@ const achievements = [
     icon: Trophy,
   },
   {
-    title: 'Global Rank 908',
-    detail: 'Secured Global Rank 908 in CodeChef Starters 202 among more than 20,000 participants.',
+    title: 'Global Rank 286',
+    detail: 'Secured Global Rank 908 in CodeChef Starters 252 among more than 20,000 participants.',
     icon: Flag,
   },
   {
