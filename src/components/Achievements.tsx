@@ -16,7 +16,7 @@ const platforms = [
   {
     name: 'LeetCode',
     handle: 'Jayant_Tomar20',
-    rating: '700+ DSA solved',
+    rating: '350+ DSA solved',
     rank: 'Problem Solver',
     href: 'https://leetcode.com/u/Jayant_Tomar20/',
     icon: Target,
